@@ -1,0 +1,24 @@
+filter: on empty set
+filter: a on set5
+Not found User: c
+Text: c body [20]
+Not found User: d
+Text: d body [20]
+Not found User: b
+Text: b body [7]
+FOUND User: a
+Text: a body [9]
+
+filter: 20 on set5
+FOUND User: c
+Text: c body [20]
+
+FOUND User: d
+Text: d body [20]
+
+Not found User: b
+Text: b body [7]
+
+Not found User: a
+Text: a body [9]
+
